@@ -24,7 +24,7 @@ public class Soal02 {
 		if (cekMasaStudi&&cekIPK&&cekEprt&&cekHKI||cekLomba) {
 			status = "Cumlaude";
 		} else {
-			status = "Tidak cumlaude";
+			status = "Tidak Cumlaude";
 		}
 		return status;
 	}
