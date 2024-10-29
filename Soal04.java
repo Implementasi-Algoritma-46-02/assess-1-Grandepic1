@@ -30,7 +30,7 @@ public class Soal04 {
 				throw new AssertionError();
 		}
 
-		if (jamSebulan>=160&&jamSebulan<175){
+		if (jamSebulan>160&&jamSebulan<175){
 			double bonus = 0.05*30000*jamSebulan;
 			jumlahHonor += bonus;
 		} else if (jamSebulan>=175){

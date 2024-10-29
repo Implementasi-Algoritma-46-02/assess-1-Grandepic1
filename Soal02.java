@@ -21,7 +21,7 @@ public class Soal02 {
 		boolean cekEprt = EPRT>=450;
 		boolean cekHKI = HKI.equals("ada");
 		boolean cekLomba = Lomba.equals("ada");
-		if (cekMasaStudi&&cekIPK&&cekEprt&&cekHKI&&cekLomba) {
+		if (cekMasaStudi&&cekIPK&&cekEprt&&cekHKI||cekLomba) {
 			status = "Cumlaude";
 		} else {
 			status = "Tidak cumlaude";
