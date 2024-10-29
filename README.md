@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Revaldo Joe Atkins Bukit
 
-NIM : 
+NIM : 607062400098
 
 ## Instruksi
 
